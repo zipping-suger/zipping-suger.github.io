@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Robert Learning | Yixiao Li</title>
-    <link>https://example.com/tag/robert-learning/</link>
-      <atom:link href="https://example.com/tag/robert-learning/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://zipping-suger.github.io/tag/robert-learning/</link>
+      <atom:link href="https://zipping-suger.github.io/tag/robert-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>Robert Learning</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 27 Mar 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hueb8600275123224c14125081487382bb_87041_512x512_fill_lanczos_center_3.png</url>
+      <url>https://zipping-suger.github.io/media/icon_hueb8600275123224c14125081487382bb_87041_512x512_fill_lanczos_center_3.png</url>
       <title>Robert Learning</title>
-      <link>https://example.com/tag/robert-learning/</link>
+      <link>https://zipping-suger.github.io/tag/robert-learning/</link>
     </image>
     
     <item>
       <title>Learning Latent Object-Centric Representations for Visual-Based Robot Manipulation</title>
-      <link>https://example.com/project/latent_representation/</link>
+      <link>https://zipping-suger.github.io/project/latent_representation/</link>
       <pubDate>Sat, 27 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/latent_representation/</guid>
+      <guid>https://zipping-suger.github.io/project/latent_representation/</guid>
       <description>&lt;p&gt;For multi-step robotic manipulation, it is important but challenging to predict the future state of the object conditioned on the applied action, especially from the original sensory observation such as images. Successful robotic manipulation requires an accurate predictive model as well as an intricate understanding of the object-environment interactions from high-dimensional images.&lt;/p&gt;
 &lt;p&gt;This paper proposes a latent object-centric representation (LOR) that can encode implicit visual features from raw RGB images into a compact and generalizable representation of the object states suitable for future-state prediction. Based on LOR, LOR dynamic neural network (LOR-DNN) is proposed to simultaneously encode object states and predicts the future states with the applied actions of a robot. The learned LOR-DNN can generalize effectively to new situations and can even directly transfer from simulation to the real world. LOR-DNN can be used to plan action sequences to manipulate the object to achieve the target state, allowing the robot to perform multi-step manipulation tasks such as planar pushing.&lt;/p&gt;
 &lt;p&gt;Real-world experiments on pushing tasks demonstrate that the proposed method can achieve a high

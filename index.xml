@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yixiao Li</title>
-    <link>https://example.com/</link>
-      <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://zipping-suger.github.io/</link>
+      <atom:link href="https://zipping-suger.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Yixiao Li</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hueb8600275123224c14125081487382bb_87041_512x512_fill_lanczos_center_3.png</url>
+      <url>https://zipping-suger.github.io/media/icon_hueb8600275123224c14125081487382bb_87041_512x512_fill_lanczos_center_3.png</url>
       <title>Yixiao Li</title>
-      <link>https://example.com/</link>
+      <link>https://zipping-suger.github.io/</link>
     </image>
     
     <item>
       <title>Example Talk</title>
-      <link>https://example.com/talk/example-talk/</link>
+      <link>https://zipping-suger.github.io/talk/example-talk/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://example.com/talk/example-talk/</guid>
+      <guid>https://zipping-suger.github.io/talk/example-talk/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -34,9 +34,9 @@
     
     <item>
       <title>Hierarchical Long-Short Term Safety Control and Its Hyperparameter Optimization</title>
-      <link>https://example.com/project/safe_control/</link>
+      <link>https://zipping-suger.github.io/project/safe_control/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/safe_control/</guid>
+      <guid>https://zipping-suger.github.io/project/safe_control/</guid>
       <description>&lt;p&gt;Human-robot cooperation has broad application prospects in advanced fields such as service, industry and aerospace. How to ensure that cooperative robots can run safely and efficiently in a dynamic and random environment is an important issue in the context of human-robot cooperation.&lt;/p&gt;
 &lt;p&gt;In this research, robot safety avoidance is the starting point to solve the safety problems in human-robot cooperation. The hierarchical long short robot safety algorithm based on path planning and safety control algorithm is studied, and the robot safety obstacle
 avoidance in dynamic environment is realized through deep visual perception of the environment. In addition, in order to improve the security and efficiency of the algorithm, an active hyperparameter optimizer for security algorithm is proposed to realize automatic
@@ -52,9 +52,9 @@ hyperparameter adjustment.&lt;/p&gt;
     
     <item>
       <title>Learning Latent Object-Centric Representations for Visual-Based Robot Manipulation</title>
-      <link>https://example.com/project/latent_representation/</link>
+      <link>https://zipping-suger.github.io/project/latent_representation/</link>
       <pubDate>Sat, 27 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/latent_representation/</guid>
+      <guid>https://zipping-suger.github.io/project/latent_representation/</guid>
       <description>&lt;p&gt;For multi-step robotic manipulation, it is important but challenging to predict the future state of the object conditioned on the applied action, especially from the original sensory observation such as images. Successful robotic manipulation requires an accurate predictive model as well as an intricate understanding of the object-environment interactions from high-dimensional images.&lt;/p&gt;
 &lt;p&gt;This paper proposes a latent object-centric representation (LOR) that can encode implicit visual features from raw RGB images into a compact and generalizable representation of the object states suitable for future-state prediction. Based on LOR, LOR dynamic neural network (LOR-DNN) is proposed to simultaneously encode object states and predicts the future states with the applied actions of a robot. The learned LOR-DNN can generalize effectively to new situations and can even directly transfer from simulation to the real world. LOR-DNN can be used to plan action sequences to manipulate the object to achieve the target state, allowing the robot to perform multi-step manipulation tasks such as planar pushing.&lt;/p&gt;
 &lt;p&gt;Real-world experiments on pushing tasks demonstrate that the proposed method can achieve a high
@@ -70,9 +70,9 @@ success rate on pushing previously unseen objects with diverse shapes and scales
     
     <item>
       <title>Welcome to Wowchemy, the website builder for Hugo</title>
-      <link>https://example.com/post/getting-started/</link>
+      <link>https://zipping-suger.github.io/post/getting-started/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/getting-started/</guid>
+      <guid>https://zipping-suger.github.io/post/getting-started/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li&gt;
@@ -148,9 +148,9 @@ success rate on pushing previously unseen objects with diverse shapes and scales
     
     <item>
       <title>Slides</title>
-      <link>https://example.com/slides/example/</link>
+      <link>https://zipping-suger.github.io/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/slides/example/</guid>
+      <guid>https://zipping-suger.github.io/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://wowchemy.com/docs/content/slides/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -273,27 +273,27 @@ $$&lt;/p&gt;
     
     <item>
       <title>Privacy Policy</title>
-      <link>https://example.com/privacy/</link>
+      <link>https://zipping-suger.github.io/privacy/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>https://example.com/privacy/</guid>
+      <guid>https://zipping-suger.github.io/privacy/</guid>
       <description>&lt;p&gt;Add your privacy policy here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Terms</title>
-      <link>https://example.com/terms/</link>
+      <link>https://zipping-suger.github.io/terms/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>https://example.com/terms/</guid>
+      <guid>https://zipping-suger.github.io/terms/</guid>
       <description>&lt;p&gt;Add your terms here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>An example conference paper</title>
-      <link>https://example.com/publication/example/</link>
+      <link>https://zipping-suger.github.io/publication/example/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/example/</guid>
+      <guid>https://zipping-suger.github.io/publication/example/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -310,9 +310,9 @@ $$&lt;/p&gt;
     
     <item>
       <title></title>
-      <link>https://example.com/admin/config.yml</link>
+      <link>https://zipping-suger.github.io/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/admin/config.yml</guid>
+      <guid>https://zipping-suger.github.io/admin/config.yml</guid>
       <description></description>
     </item>
     

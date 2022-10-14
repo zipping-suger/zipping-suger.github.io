@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Safe control | Yixiao Li</title>
-    <link>https://example.com/tag/safe-control/</link>
-      <atom:link href="https://example.com/tag/safe-control/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://zipping-suger.github.io/tag/safe-control/</link>
+      <atom:link href="https://zipping-suger.github.io/tag/safe-control/index.xml" rel="self" type="application/rss+xml" />
     <description>Safe control</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hueb8600275123224c14125081487382bb_87041_512x512_fill_lanczos_center_3.png</url>
+      <url>https://zipping-suger.github.io/media/icon_hueb8600275123224c14125081487382bb_87041_512x512_fill_lanczos_center_3.png</url>
       <title>Safe control</title>
-      <link>https://example.com/tag/safe-control/</link>
+      <link>https://zipping-suger.github.io/tag/safe-control/</link>
     </image>
     
     <item>
       <title>Hierarchical Long-Short Term Safety Control and Its Hyperparameter Optimization</title>
-      <link>https://example.com/project/safe_control/</link>
+      <link>https://zipping-suger.github.io/project/safe_control/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/safe_control/</guid>
+      <guid>https://zipping-suger.github.io/project/safe_control/</guid>
       <description>&lt;p&gt;Human-robot cooperation has broad application prospects in advanced fields such as service, industry and aerospace. How to ensure that cooperative robots can run safely and efficiently in a dynamic and random environment is an important issue in the context of human-robot cooperation.&lt;/p&gt;
 &lt;p&gt;In this research, robot safety avoidance is the starting point to solve the safety problems in human-robot cooperation. The hierarchical long short robot safety algorithm based on path planning and safety control algorithm is studied, and the robot safety obstacle
 avoidance in dynamic environment is realized through deep visual perception of the environment. In addition, in order to improve the security and efficiency of the algorithm, an active hyperparameter optimizer for security algorithm is proposed to realize automatic
