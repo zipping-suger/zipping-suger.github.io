@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Robot Learning | Yixiao Li</title>
+    <link>https://zipping-suger.github.io/tag/robot-learning/</link>
+      <atom:link href="https://zipping-suger.github.io/tag/robot-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Robot Learning</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 27 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://zipping-suger.github.io/media/icon_hueb8600275123224c14125081487382bb_87041_512x512_fill_lanczos_center_3.png</url>
+      <title>Robot Learning</title>
+      <link>https://zipping-suger.github.io/tag/robot-learning/</link>
+    </image>
+    
+    <item>
+      <title>Learning Latent Object-Centric Representations for Visual-Based Robot Manipulation</title>
+      <link>https://zipping-suger.github.io/project/latent_representation/</link>
+      <pubDate>Sat, 27 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://zipping-suger.github.io/project/latent_representation/</guid>
+      <description>&lt;p&gt;For multi-step robotic manipulation, it is important but challenging to predict the future state of the object conditioned on the applied action, especially from the original sensory observation such as images. Successful robotic manipulation requires an accurate predictive model as well as an intricate understanding of the object-environment interactions from high-dimensional images.&lt;/p&gt;
+&lt;p&gt;This paper proposes a latent object-centric representation (LOR) that can encode implicit visual features from raw RGB images into a compact and generalizable representation of the object states suitable for future-state prediction. Based on LOR, LOR dynamic neural network (LOR-DNN) is proposed to simultaneously encode object states and predicts the future states with the applied actions of a robot. The learned LOR-DNN can generalize effectively to new situations and can even directly transfer from simulation to the real world. LOR-DNN can be used to plan action sequences to manipulate the object to achieve the target state, allowing the robot to perform multi-step manipulation tasks such as planar pushing.&lt;/p&gt;
+&lt;p&gt;Real-world experiments on pushing tasks demonstrate that the proposed method can achieve a high
+success rate on pushing previously unseen objects with diverse shapes and scales, outperforming state-of-the-art model-based and end-to-end methods including baselines that use ground-truth object poses. The proposed approach is an important step toward fully autonomous and generalizable visual-based robotic manipulation.&lt;/p&gt;
+&lt;p&gt;Here is a experiment demonstration of the proposed method. Please have a look.&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/WwxzAwZbOJU&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>
