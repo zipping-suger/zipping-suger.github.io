@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dynamic Bin-picking | Yixiao Li</title>
+    <link>https://zipping-suger.github.io/tag/dynamic-bin-picking/</link>
+      <atom:link href="https://zipping-suger.github.io/tag/dynamic-bin-picking/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dynamic Bin-picking</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 10 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://zipping-suger.github.io/media/icon_hueb8600275123224c14125081487382bb_87041_512x512_fill_lanczos_center_3.png</url>
+      <title>Dynamic Bin-picking</title>
+      <link>https://zipping-suger.github.io/tag/dynamic-bin-picking/</link>
+    </image>
+    
+    <item>
+      <title>Pushing Potential Field for Object Pile Manipulation with Affordance Learning</title>
+      <link>https://zipping-suger.github.io/project/dynamic_bin_picking/</link>
+      <pubDate>Fri, 10 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://zipping-suger.github.io/project/dynamic_bin_picking/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/UGZTbHR1PPE&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>
