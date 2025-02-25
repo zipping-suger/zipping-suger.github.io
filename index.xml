@@ -33,6 +33,21 @@
     </item>
     
     <item>
+      <title>Deep Manipulation Memory: Learning-Based Trajectory Initialization for Robot Manipulation</title>
+      <link>https://zipping-suger.github.io/project/deep_manipulation_memory/</link>
+      <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://zipping-suger.github.io/project/deep_manipulation_memory/</guid>
+      <description>&lt;p&gt;Fast and efficient motion planning is crucial for robotic manipulation tasks. While optimization-based methods can generate smooth and feasible trajectories, they are highly sensitive to the initial guess, often leading to slow convergence or failure in complex environments. To address this issue, this research presents Deep Manipulation Memory (DM&amp;amp;M), a neural network designed for learning-based trajectory initialization in robotic manipulation tasks.&lt;/p&gt;
+&lt;p&gt;At Flink Robotics, I had the opportunity to bring DM&amp;amp;M from research to real-world applications in logistics. In collaboration with Swiss Post, we tested DM&amp;amp;M on parcel singulation tasks, demonstrating its effectiveness in improving trajectory robustness and reducing computation time. This integration showcased how learning-based trajectory initialization can enhance industrial automation, making robotic systems more efficient and adaptable.
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/Ni-vkNj6aKE&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>A Framework for Efficient and Robust Dynamic Bin-Picking</title>
       <link>https://zipping-suger.github.io/project/dynamic_bin_picking/</link>
       <pubDate>Fri, 10 Mar 2023 00:00:00 +0000</pubDate>
