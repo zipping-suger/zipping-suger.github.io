@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Robot Manipulation | Yixiao Li</title>
+    <link>https://zipping-suger.github.io/tag/robot-manipulation/</link>
+      <atom:link href="https://zipping-suger.github.io/tag/robot-manipulation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Robot Manipulation</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 25 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://zipping-suger.github.io/media/icon_hueb8600275123224c14125081487382bb_87041_512x512_fill_lanczos_center_3.png</url>
+      <title>Robot Manipulation</title>
+      <link>https://zipping-suger.github.io/tag/robot-manipulation/</link>
+    </image>
+    
+    <item>
+      <title>Learning Tool-aware Motion Planning with Analytical Policy Gradient</title>
+      <link>https://zipping-suger.github.io/project/apg_nueral_planner/</link>
+      <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://zipping-suger.github.io/project/apg_nueral_planner/</guid>
+      <description>&lt;p&gt;Collision-free motion generation is a core building block for robot manipulation, yet it remains a significant challenge. Traditional methods like RRT or optimization-based planners (e.g., CuRobo) are often computationally expensive and struggle with real-time requirements in cluttered environments. While emerging Neural Motion Planners promise faster inference, they suffer from compounding errors, poor generalization to new environments, and a heavy reliance on expensive expert demonstrations.&lt;/p&gt;
+&lt;p&gt;To address these limitations, this project introduces a &lt;strong&gt;Tool-Aware Neural Motion Planner&lt;/strong&gt; trained via &lt;strong&gt;Analytical Policy Gradient (APG)&lt;/strong&gt;. Developed at the Robotic Systems Lab (RSL) at ETH Zürich, this method replaces the complex, multi-step planning pipeline with a single end-to-end network.&lt;/p&gt;
+&lt;h3 id=&#34;key-innovations&#34;&gt;Key Innovations&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Tool-Awareness:&lt;/strong&gt; Unlike standard neural planners that only check for robot body collisions, our policy explicitly encodes the tool shape as a point cloud. This ensures that the attached tool does not interfere with the environment, a critical requirement for practical manipulation tasks.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Analytical Policy Gradient (APG) Fine-tuning:&lt;/strong&gt; The most significant contribution is a fine-tuning stage that &lt;strong&gt;eliminates the need for expert data&lt;/strong&gt;. By leveraging a differentiable simulation with a privileged Signed Distance Field (SDF), we can optimize the policy directly for collision avoidance, target accuracy, and smoothness.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;results-and-impact&#34;&gt;Results and Impact&lt;/h3&gt;
+&lt;p&gt;We benchmarked this approach against state-of-the-art planners, demonstrating significant improvements:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Speed:&lt;/strong&gt; Generating solutions in just &lt;strong&gt;0.48 seconds&lt;/strong&gt;, compared to 3.46 seconds for CuRobo.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Data Efficiency:&lt;/strong&gt; Achieved higher success rates (81.7%) than leading neural planners (MPINet) while using only &lt;strong&gt;30%&lt;/strong&gt; of the pre-training data.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Adaptation:&lt;/strong&gt; The system can adapt to completely out-of-distribution scenarios (such as cabinets or bins) without collecting new expert demonstrations. By simply sampling random problems and applying APG, the policy learns to navigate new constraints 150x faster than generating expert datasets.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;We deployed the policy on a physical Franka Emika arm using a single RealSense depth camera. The system successfully navigated cluttered environments and reacted instantly to dynamic obstacles, highlighting the potential of differentiable simulation for real-world robotic autonomy.
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/a3wsjeLreCs&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
